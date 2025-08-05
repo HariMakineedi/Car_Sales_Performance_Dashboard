@@ -54,7 +54,7 @@ To analyze monthly car sales data and generate visual insights that help stakeho
 
 ## 📝 Dataset
 
-[📥 Car Sales Excel File](https://github.com/HariMakineedi/Car-Sales-Performance-Dashboard/blob/main/Car%20Sales.xlsx)
+[📥 Car Sales Excel File](https://github.com/HariMakineedi/Car_Sales_Performance_Dashboard/blob/main/Car%20Sales.xlsx)
 
 ---
 
