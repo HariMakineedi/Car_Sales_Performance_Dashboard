@@ -12,7 +12,7 @@ To analyze monthly car sales data and generate visual insights that help stakeho
 
 ## 📊 Dashboard Preview
 
-![Car Sales Dashboard](https://github.com/HariMakineedi/Car-Sales-Performance-Dashboard/blob/main/Car-sales-Dashboard.png)
+![Car Sales Dashboard](https://github.com/HariMakineedi/Car_Sales_Performance_Dashboard/blob/main/Car-sales-Dashboard.png)
 
 ---
 
