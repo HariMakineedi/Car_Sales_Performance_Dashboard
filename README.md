@@ -22,7 +22,7 @@ To analyze monthly car sales data and generate visual insights that help stakeho
 - **Microsoft Excel**
 - **Data Cleaning (Power Query)**
 - **DAX for Measures**
-- **GitHub for version control**
+
 
 ---
 
