@@ -67,11 +67,12 @@ To analyze monthly car sales data and generate visual insights that help stakeho
 
 ---
 
-## 📬 Connect with Me
+## 🤝 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hari-makineedi/)
-- 📧 harimakineedi@email.com
-- 📱 +91- 9133792875
+- 💼 [LinkedIn](https://www.linkedin.com/in/hari-makineedi/)
+- 📧 Email: harimakineedi29@email.com
+- 📱 Phone: +91- 9133792875
+
 
 ---
 
